@@ -39,4 +39,4 @@ if pode_aprovar(idade, renda, valor):
     print(f"Juros pagos: R${juros:.2f}")
 
 else:
-    print("EMPRÉSTIMO NEGADO")
+   print("EMPRÉSTIMO NEGADO")
